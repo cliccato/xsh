@@ -1,6 +1,0 @@
-xsh: xsh.o
-	gcc bin/xsh.o -o bin/xshxsh.o: xsh.c
-	gcc src/*.c -o bin/xsh.o
-
-xsh.c:
-    echo "good"
