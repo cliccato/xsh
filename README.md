@@ -1,4 +1,4 @@
 # xsh
 Simple shell made in c
 
-##Work in progress
+## Work in progress
